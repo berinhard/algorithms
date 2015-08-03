@@ -4,7 +4,7 @@ Just some studies of algorithms and other stuff using Python to keep the practic
 
  - Insertion
  - Selection
- - ~Bubble~
+ - ~~Bubble~~
  - Shell
  - Merge
  - Heap
