@@ -1,0 +1,17 @@
+*.pyc
+*.back
+*.log*
+*.orig
+*.sql
+.env
+bin/
+/lib/
+man/
+media/
+include/
+local/
+build/
+share/
+/lib64
+.Python
+pip-selfcheck.json
