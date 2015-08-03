@@ -1,0 +1,1 @@
+Just some studies of algorithms and other stuff using Python to keep the practice. I'm using pytest to run the tests.
